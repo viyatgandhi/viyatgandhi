@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Software Engineer & Tech Enthusiast with experience in Full-Stack Application Development, Product Development & Design, Automation Testing, DevOps, AWS, Security, Machine Learning & Big data.
+
+- 💬 Ask me about ... Full Stack (JavaScript/Node.js/Python) | DevOps | Security | Automation Testing | AWS
+
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/viyatgandhi/)
+
+- 🔭 I’m currently working at ... [ProtocolFirst](https://protocolfirst.com)
+
 <!--
 **viyatgandhi/viyatgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
