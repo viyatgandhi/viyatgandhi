@@ -6,7 +6,7 @@ I am Software Engineer & Tech Enthusiast with experience in Full-Stack Applicati
 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/viyatgandhi/)
 
-- 🔭 I’m currently working at ... [ProtocolFirst](https://www.protocolfirst.com)
+- 🔭 I’m currently working at ... [ProtocolFirst](https://www.protocolfirst.com), now part of [Flatiron Health](https://flatiron.com/)
 
 <!--
 **viyatgandhi/viyatgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
