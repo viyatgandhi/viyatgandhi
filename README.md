@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Software Engineer & Tech Enthusiast with experience in Full-Stack Application Development, Product Development & Design, Automation Testing, DevOps, AWS and Security.
+I am Software Engineer & Tech Enthusiast with experience in Full-Stack Application Development, Product Development & Design, Automation Testing, DevOps, AWS, AI and Security.
 
-- 💬 Ask me about ... Full Stack (JavaScript/Node.js/React/Python) | DevOps | Security | Automation Testing | AWS
+- 💬 Ask me about ... Full Stack (JavaScript/Node.js/React/Python) | DevOps | Security | Automation Testing | AWS | AI
 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/viyatgandhi/)
 
